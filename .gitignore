@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+results/**/*_raw.npz
+results/**/*_partial.npy
+results/**/*_partial.npy.done.npy
