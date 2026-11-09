@@ -1,0 +1,32 @@
+{
+  "device": "Nandigana2024",
+  "seed": 0,
+  "warning": "",
+  "note": "mesoporous scaffold approximated as a planar stack; absorber thickness calibrated; reverse-scan values; PCE left out (= Jsc Voc FF)",
+  "target": {
+    "Jsc": 11.03,
+    "Voc": 0.98,
+    "FF": 0.6586
+  },
+  "best": {
+    "S": 117.52448028738205,
+    "W": 5.155256764031947,
+    "Nt": 72969619572416.39,
+    "Rs": 8.791773840785027,
+    "Rsh": 6288.081643834208,
+    "eta_opt": 0.6055699907243252,
+    "pero_nm": 200.91431066393852
+  },
+  "best_cost": 16.629445059419265,
+  "best_metrics": {
+    "Jsc": 11.496710491617899,
+    "Voc": 0.9465967904913095,
+    "FF": 0.6489592365049365
+  },
+  "ranges": {},
+  "region_fraction": 0.0,
+  "precision": null,
+  "n_eval": 96,
+  "failures": 0,
+  "seconds": 94
+}

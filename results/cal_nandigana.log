@@ -1,0 +1,113 @@
+search   0  C=   127.075  best=   127.075
+search   1  C=   933.046  best=   127.075
+search   2  C=   128.700  best=   127.075
+search   3  C=   123.834  best=   123.834
+search   4  C=   159.563  best=   123.834
+search   5  C=   171.604  best=   123.834
+search   6  C=   132.278  best=   123.834
+search   7  C=   128.583  best=   123.834
+search   8  C=   129.807  best=   123.834
+search   9  C=   129.212  best=   123.834
+search  10  C=   126.142  best=   123.834
+search  11  C=   118.578  best=   118.578
+search  12  C=   117.442  best=   117.442
+search  13  C=   117.870  best=   117.442
+search  14  C=   118.720  best=   117.442
+search  15  C=   119.669  best=   117.442
+search  16  C=   124.931  best=   117.442
+search  17  C=   117.657  best=   117.442
+search  18  C=   110.737  best=   110.737
+search  19  C=   140.771  best=   110.737
+search  20  C=   691.628  best=   110.737
+search  21  C=   306.048  best=   110.737
+search  22  C=   474.498  best=   110.737
+search  23  C=   105.439  best=   105.439
+search  24  C=   105.980  best=   105.439
+search  25  C=   221.691  best=   105.439
+search  26  C=   113.191  best=   105.439
+search  27  C=   100.668  best=   100.668
+search  28  C=    96.163  best=    96.163
+search  29  C=    84.998  best=    84.998
+search  30  C=    68.022  best=    68.022
+search  31  C=    62.873  best=    62.873
+search  32  C=    57.986  best=    57.986
+search  33  C=    53.532  best=    53.532
+search  34  C=    72.976  best=    53.532
+search  35  C=    48.342  best=    48.342
+search  36  C=    98.004  best=    48.342
+search  37  C=    57.656  best=    48.342
+search  38  C=    72.301  best=    48.342
+search  39  C=    62.919  best=    48.342
+map      0  C=    64.763
+map      1  C=    66.221
+map      2  C=   189.339
+map      3  C=   220.171
+map      4  C=    93.582
+map      5  C=   100.102
+map      6  C=    37.832
+map      7  C=    33.244
+map      8  C=   841.318
+map      9  C=    97.112
+map     10  C=    84.753
+map     11  C=    58.890
+map     12  C=    42.945
+map     13  C=    32.784
+map     14  C=    55.336
+map     15  C=    25.224
+map     16  C=    52.994
+map     17  C=  1445.622
+map     18  C=    16.629
+map     19  C=    31.120
+map     20  C=    45.985
+map     21  C=   189.007
+map     22  C=    76.340
+map     23  C=    40.157
+map     24  C=    48.209
+map     25  C=    30.778
+map     26  C=    34.464
+map     27  C=   767.442
+map     28  C=    33.872
+map     29  C=    34.012
+map     30  C=    86.894
+map     31  C=    88.362
+map     32  C=    17.831
+map     33  C=    51.818
+map     34  C=    79.570
+map     35  C=   698.718
+map     36  C=    25.412
+map     37  C=  3784.351
+map     38  C=    53.614
+map     39  C=  1679.370
+{
+  "device": "Nandigana2024",
+  "seed": 0,
+  "warning": "",
+  "note": "mesoporous scaffold approximated as a planar stack; absorber thickness calibrated; reverse-scan values; PCE left out (= Jsc Voc FF)",
+  "target": {
+    "Jsc": 11.03,
+    "Voc": 0.98,
+    "FF": 0.6586
+  },
+  "best": {
+    "S": 117.52448028738205,
+    "W": 5.155256764031947,
+    "Nt": 72969619572416.39,
+    "Rs": 8.791773840785027,
+    "Rsh": 6288.081643834208,
+    "eta_opt": 0.6055699907243252,
+    "pero_nm": 200.91431066393852
+  },
+  "best_cost": 16.629445059419265,
+  "best_metrics": {
+    "Jsc": 11.496710491617899,
+    "Voc": 0.9465967904913095,
+    "FF": 0.6489592365049365
+  },
+  "ranges": {},
+  "region_fraction": 0.0,
+  "precision": null,
+  "n_eval": 96,
+  "failures": 0,
+  "seconds": 94
+}
+saved results/calibration_Nandigana2024.json

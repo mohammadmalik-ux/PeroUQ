@@ -1,0 +1,142 @@
+search   0  C=   360.888  best=    57.481
+search   1  C=    78.721  best=    57.481
+search   2  C=   111.687  best=    57.481
+search   3  C=    12.597  best=    12.597
+search   4  C=    69.836  best=    12.597
+search   5  C=    65.585  best=    12.597
+search   6  C=    37.758  best=    12.597
+search   7  C=    83.161  best=    12.597
+search   8  C=     3.192  best=     3.192
+search   9  C=    11.468  best=     3.192
+search  10  C=     2.623  best=     2.623
+search  11  C=   128.672  best=     2.623
+search  12  C=    10.167  best=     2.623
+search  13  C=     8.035  best=     2.623
+search  14  C=     4.050  best=     2.623
+search  15  C=     0.054  best=     0.054
+search  16  C=     0.695  best=     0.054
+search  17  C=     1.035  best=     0.054
+search  18  C=     3.562  best=     0.054
+search  19  C=    27.245  best=     0.054
+search  20  C=    17.094  best=     0.054
+search  21  C=     2.493  best=     0.054
+search  22  C=     4.171  best=     0.054
+search  23  C=     3.020  best=     0.054
+search  24  C=     2.801  best=     0.054
+search  25  C=     0.825  best=     0.054
+search  26  C=     4.176  best=     0.054
+search  27  C=     4.480  best=     0.054
+search  28  C=   176.519  best=     0.054
+search  29  C=   603.487  best=     0.054
+search  30  C=     1.926  best=     0.054
+search  31  C=   392.997  best=     0.054
+search  32  C=    67.776  best=     0.054
+search  33  C=   530.821  best=     0.054
+search  34  C=     7.013  best=     0.054
+search  35  C=    38.811  best=     0.054
+search  36  C=   180.164  best=     0.054
+search  37  C=    13.052  best=     0.054
+search  38  C=   144.463  best=     0.054
+search  39  C=   131.385  best=     0.054
+map      0  C=   100.946
+map      1  C=   140.753
+map      2  C=    73.231
+map      3  C=  1004.548
+map      4  C=    60.392
+map      5  C=    28.997
+map      6  C=  1089.052
+map      7  C=     8.388
+map      8  C=   309.058
+map      9  C=   458.313
+map     10  C=   448.870
+map     11  C=    84.506
+map     12  C=     2.300
+map     13  C=    53.796
+map     14  C=    15.081
+map     15  C=    29.194
+map     16  C=    27.629
+map     17  C=    27.043
+map     18  C=    62.858
+map     19  C=     5.584
+map     20  C=   472.409
+map     21  C=     8.523
+map     22  C=     1.215
+map     23  C=    54.658
+map     24  C=   115.156
+map     25  C=    43.507
+map     26  C=    14.078
+map     27  C=     5.837
+map     28  C=   628.047
+map     29  C=   189.486
+map     30  C=   277.983
+map     31  C=   928.817
+map     32  C=    67.076
+map     33  C=   249.900
+map     34  C=   257.391
+map     35  C=     2.872
+map     36  C=   212.991
+map     37  C=   482.606
+map     38  C=   370.641
+map     39  C=     5.027
+{
+  "device": "Yang2014-D",
+  "seed": 2,
+  "warning": "",
+  "note": "mesoporous scaffold approximated as a planar stack; absorber thickness calibrated; PCE left out (= Jsc Voc FF)",
+  "target": {
+    "Jsc": 18.73,
+    "Voc": 0.9527,
+    "FF": 0.572
+  },
+  "best": {
+    "S": 7.253645141444795,
+    "W": 5.010533686276029,
+    "Nt": 679879615224281.0,
+    "Rs": 4.3582215727432745,
+    "Rsh": 1068.6523965448278,
+    "eta_opt": 0.8798903534552212,
+    "pero_nm": 284.8473336744817
+  },
+  "best_cost": 0.054301545618796784,
+  "best_metrics": {
+    "Jsc": 18.67678180475033,
+    "Voc": 0.9544594314501897,
+    "FF": 0.5719596071344996
+  },
+  "ranges": {
+    "S": [
+      0.42259301363465546,
+      1570.5951143615318
+    ],
+    "W": [
+      4.954053446464241,
+      5.020034209405761
+    ],
+    "Nt": [
+      177632091525611.84,
+      1000000000000000.0
+    ],
+    "Rs": [
+      2.0102839575206093,
+      8.430768195539713
+    ],
+    "Rsh": [
+      565.7862646820208,
+      7402.166696064363
+    ],
+    "eta_opt": [
+      0.8583242032676934,
+      0.8906074636507303
+    ],
+    "pero_nm": [
+      273.1946251870992,
+      353.5673178732395
+    ]
+  },
+  "region_fraction": 0.0,
+  "precision": 0.8,
+  "n_eval": 106,
+  "failures": 0,
+  "seconds": 111
+}
+saved results/calibration_Yang2014-D_seed2.json
