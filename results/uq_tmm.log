@@ -1,0 +1,9 @@
+
+== TiO2: d = 22; Monte Carlo 500 runs, Sobol 0 runs
+
+== SnO2: d = 22; Monte Carlo 500 runs, Sobol 0 runs
+
+== ZnO: d = 22; Monte Carlo 500 runs, Sobol 0 runs
+
+== CdS: d = 22; Monte Carlo 500 runs, Sobol 0 runs
+figure: results/uq_tmm/uq_figure.png
