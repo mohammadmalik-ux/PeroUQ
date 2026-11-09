@@ -1,0 +1,12 @@
+{
+  "title": "PeroUQ: drift-diffusion modelling of perovskite solar cells with uncertainty quantification",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {"name": "Abood, Mohammad Malik",
+     "affiliation": "Department of Radiological Techniques, College of Health and Medical Technology, University of Alkafeel, Najaf, Iraq"}
+  ],
+  "keywords": ["perovskite solar cells", "drift-diffusion", "uncertainty quantification", "Sobol indices",
+               "Bayesian calibration", "carbon electrode", "HTL-free"],
+  "description": "Open Python framework for experiment-calibrated, uncertainty-aware design of HTL-free FTO/ETL/MAPbI3/carbon perovskite solar cells: 1D drift-diffusion solver with mobile ions, Beer-Lambert and transfer-matrix optics, EQE, sourced parameter database, Bayesian calibration, Monte Carlo and Sobol analysis, and robust thickness design."
+}
