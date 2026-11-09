@@ -1,0 +1,9 @@
+layer,status,source,doi_or_url,note
+MAPbI3,candidate - check data availability,"M. Shirayama et al., Optical transitions in hybrid perovskite solar cells: ellipsometry, DFT and quantum efficiency analyses for CH3NH3PbI3, arXiv:1507.08824 (2015)",https://arxiv.org/abs/1507.08824,"ellipsometry 0.7-5.2 eV; Tauc-Lorentz parameters in its Table I; no n,k file mentioned in the preprint"
+FTO,candidate - values not yet extracted,"F. Atay et al., Optical characterization of SnO2:F films by spectroscopic ellipsometry, J. Non-Cryst. Solids 356 (2010) 2192-2197",10.1016/j.jnoncrysol.2010.07.007,Cauchy-Urbach model fitted to ellipsometry
+all layers,repository,"M. N. Polyanskiy, Refractiveindex.info database of optical constants, Sci. Data (2024)",https://www.nature.com/articles/s41597-023-02898-2.pdf,"download CSV per material (wavelength in um); load with perouq.tmm.load_nk_csv"
+TiO2,open,,,to be selected from the repository (anatase thin film)
+SnO2,open,,,to be selected (thin film)
+ZnO,open,,,to be selected (thin film)
+CdS,open,,,to be selected (chemical-bath thin film preferred)
+carbon,open,,,carbon-paste electrode data are scarce; graphite as a bound

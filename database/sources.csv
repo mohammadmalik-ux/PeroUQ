@@ -1,0 +1,18 @@
+id,kind,citation,doi,url
+Mehmood2023,simulation-input,"S. Mehmood, Y. Xia, F. Qu, M. He, Energies 16 (2023) 7438",10.3390/en16217438,https://mdpi.com/1996-1073/16/21/7438
+Subudhi2023,simulation-input,"P. Subudhi, D. Punetha, Sci. Rep. 13 (2023) 19485",10.1038/s41598-023-33419-1,https://www.nature.com/articles/s41598-023-33419-1.pdf
+Shukla2025,simulation-input,"S. Shukla, R. Paul, T. R. Lenka, J. Optoelectron. Adv. Mater. 27 (2025) 55-61",,https://joam.inoe.ro/articles/a-comparative-investigation-of-lead-based-and-lead-free-maxi3-perovskite-solar-cells-with-various-etls-by-using-scaps-1d/fulltext
+Sheikh2026,simulation-input,"M. A. K. Sheikh, M. S. Islam, H. Huq, RSC open-access article d5ya00343a (2026)",10.1039/d5ya00343a,https://pubs.rsc.org/en/content/articlehtml/2026/ya/d5ya00343a
+Das2024,simulation-input,"S. Das et al., J. Nano- Electron. Phys. 16 (2024) 01014",10.21272/jnep.16(1).01014,https://jnep.sumdu.edu.ua/download/numbers/2024/1/articles/en/jnep_16_1_01014.pdf
+Rabhi2024,simulation-input+experiment,"S. Rabhi et al., RSC Adv. 14 (2024) 34051-34065",10.1039/d4ra06193d,https://pubs.rsc.org/en/content/articlepdf/2024/ra/d4ra06193d
+Yusuf2024,simulation-input,"A. S. Yusuf, A. M. Ramalan, A. A. Abubakar, I. K. Mohammed, East Eur. J. Phys. 1 (2024) 332-341",10.26565/2312-4334-2024-1-31,https://periodicals.karazin.ua/eejp/article/download/22689/21201
+Son2024,simulation-input,"C. Son, H. Son, B.-S. Jeong, Appl. Sci. 14 (2024) 2390",10.3390/app14062390,https://www.mdpi.com/2076-3417/14/6/2390
+Omrani2022,simulation-input,"M. Omrani, R. Keshavarzi, M. Abdi-Jalebi, P. Gao, Sci. Rep. 12 (2022) 5367",10.1038/s41598-022-09284-9,https://discovery.ucl.ac.uk/10146211/2/s41598-022-09284-9.pdf
+Cai2017,review,"Y. Cai, L. Liang, P. Gao, Promise of commercialization: carbon materials for low-cost perovskite solar cells, arXiv:1711.10653",,https://arxiv.org/pdf/1711.10653
+Herz2017,measurement-review,"L. M. Herz, ACS Energy Lett. 2 (2017) 1539-1548",10.1021/acsenergylett.7b00276,https://www-herz.physics.ox.ac.uk/publications/Herz17a.pdf
+Schulz2019,measurement-review,"P. Schulz, D. Cahen, A. Kahn, Halide perovskites: is it all about the interfaces? (arXiv:1812.04908)",,https://arxiv.org/pdf/1812.04908
+Helander2011,measurement,"M. G. Helander, M. T. Greiner, Z. B. Wang, W. M. Tang, Z. H. Lu, J. Vac. Sci. Technol. A 29 (2011) 011019",10.1116/1.3525641,https://research.polyu.edu.hk/en/publications/work-function-of-fluorine-doped-tin-oxide/
+Krueckemeier2021,simulation+measurement,"L. Krückemeier, B. Krogmeier, Z. Liu, U. Rau, T. Kirchartz, Understanding transient photoluminescence in halide perovskite layer stacks and solar cells (arXiv:2102.08730)",,https://arxiv.org/pdf/2102.08730
+Sites2009,report,"J. R. Sites, Characterization and analysis of CIGS and CdTe solar cells, NREL/SR-520-44811 (2009)",,https://core.ac.uk/download/71321136.pdf
+Islam2023,simulation-input,"O. Islam, M. H. K. Anik, S. Mahmud, J. Debnath, A. Habib, S. Islam, Optical, thermal, and electrical analysis of perovskite solar cell with grated CdS and embedded plasmonic Au nanoparticles (Optica Publishing Group, 2023; arXiv:2309.10125)",,https://arxiv.org/pdf/2309.10125
+Aduda2004,measurement,"B. O. Aduda, P. Ravirajan, K. L. Choy, J. Nelson, Effect of morphology on electron drift mobility in porous TiO2, Int. J. Photoenergy (2004)",,https://rer.jfn.ac.lk/items/b9a88c14-36eb-4b8a-a1c0-fcb16e63ed78/full

@@ -1,0 +1,5 @@
+material,param,action,arg,reason,date
+MAPbI3,eps_r,exclude_source,Subudhi2023,"static value 30; the study uses the 6.5-10 range adopted by the other sources (author's decision)",2026-11-07
+MAPbI3,mu_n,only_sources,Herz2017,"use measured thin-film mobilities instead of simulation inputs (author's decision)",2026-11-07
+MAPbI3,mu_p,only_sources,Herz2017,"use measured thin-film mobilities instead of simulation inputs (author's decision)",2026-11-07
+TiO2,mu_n,exclude_source,Aduda2004,"PENDING AUTHOR DECISION: porous-film time-of-flight values (1e-7 to 1e-6 cm2/Vs) are kept as data but not sampled; a compact-layer measurement is still needed",2026-11-07

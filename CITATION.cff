@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use PeroUQ, please cite the software and the accompanying paper."
+title: "PeroUQ: drift-diffusion modelling of perovskite solar cells with uncertainty quantification"
+version: 0.8.0
+date-released: 2026-11-07
+license: MIT
+authors:
+  - family-names: Abood
+    given-names: Mohammad Malik
+    affiliation: "Department of Radiological Techniques, College of Health and Medical Technology, University of Alkafeel, Najaf, Iraq"
+    email: mohammad.malik@alkafeel.edu.iq
+repository-code: "https://github.com/mohammadmalik-ux/PeroUQ"
+keywords: [perovskite solar cells, drift-diffusion, uncertainty quantification, Sobol indices, Bayesian calibration, carbon electrode]

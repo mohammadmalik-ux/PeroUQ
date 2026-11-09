@@ -1,0 +1,204 @@
+material,param,value,unit,source,note
+MAPbI3,Eg,1.6,eV,Mehmood2023,
+MAPbI3,Eg,1.55,eV,Subudhi2023,
+MAPbI3,Eg,1.5,eV,Shukla2025,
+MAPbI3,Eg,1.55,eV,Sheikh2026,
+MAPbI3,Eg,1.53,eV,Rabhi2024,experimental value of that work
+MAPbI3,Eg,1.51,eV,Yusuf2024,
+MAPbI3,Eg,1.55,eV,Son2024,from LUMO -3.9 eV and HOMO -5.45 eV in the text
+MAPbI3,chi,4.1,eV,Mehmood2023,
+MAPbI3,chi,3.9,eV,Subudhi2023,
+MAPbI3,chi,3.75,eV,Shukla2025,
+MAPbI3,chi,3.8,eV,Sheikh2026,
+MAPbI3,chi,3.93,eV,Rabhi2024,
+MAPbI3,chi,4.0,eV,Yusuf2024,
+MAPbI3,chi,3.9,eV,Son2024,from LUMO -3.9 eV in the text
+MAPbI3,eps_r,10.0,-,Mehmood2023,
+MAPbI3,eps_r,30,-,Subudhi2023,static value; most SCAPS studies use 6.5-10
+MAPbI3,eps_r,6.5,-,Shukla2025,
+MAPbI3,eps_r,10,-,Sheikh2026,
+MAPbI3,eps_r,6.5,-,Rabhi2024,
+MAPbI3,eps_r,6.6,-,Yusuf2024,
+MAPbI3,Nc,2e18,cm^-3,Mehmood2023,
+MAPbI3,Nc,2e18,cm^-3,Subudhi2023,
+MAPbI3,Nc,1e18,cm^-3,Shukla2025,
+MAPbI3,Nc,2.8e18,cm^-3,Sheikh2026,
+MAPbI3,Nc,2.2e18,cm^-3,Rabhi2024,
+MAPbI3,Nc,1.2e19,cm^-3,Yusuf2024,exponent garbled in extracted text; read as 1.2x10^19
+MAPbI3,Nv,1e18,cm^-3,Mehmood2023,
+MAPbI3,Nv,2e19,cm^-3,Subudhi2023,
+MAPbI3,Nv,1e18,cm^-3,Shukla2025,
+MAPbI3,Nv,3.9e18,cm^-3,Sheikh2026,
+MAPbI3,Nv,1.3e19,cm^-3,Rabhi2024,
+MAPbI3,Nv,2.9e18,cm^-3,Yusuf2024,exponent garbled in extracted text; read as 2.9x10^18
+MAPbI3,mu_n,100,cm^2/Vs,Mehmood2023,
+MAPbI3,mu_n,10,cm^2/Vs,Subudhi2023,
+MAPbI3,mu_n,2,cm^2/Vs,Shukla2025,
+MAPbI3,mu_n,10,cm^2/Vs,Sheikh2026,
+MAPbI3,mu_n,2,cm^2/Vs,Rabhi2024,
+MAPbI3,mu_n,2.7,cm^2/Vs,Yusuf2024,
+MAPbI3,mu_p,100,cm^2/Vs,Mehmood2023,
+MAPbI3,mu_p,10,cm^2/Vs,Subudhi2023,
+MAPbI3,mu_p,2,cm^2/Vs,Shukla2025,
+MAPbI3,mu_p,10,cm^2/Vs,Sheikh2026,
+MAPbI3,mu_p,2,cm^2/Vs,Rabhi2024,
+MAPbI3,mu_p,1.8,cm^2/Vs,Yusuf2024,
+MAPbI3,NA,1e9,cm^-3,Mehmood2023,listed together with ND = 1e9 (near intrinsic)
+MAPbI3,NA,1e17,cm^-3,Subudhi2023,
+MAPbI3,NA,1e9,cm^-3,Shukla2025,listed together with ND = 1e9 (near intrinsic)
+MAPbI3,NA,1.3e16,cm^-3,Yusuf2024,exponent garbled in extracted text; read as 1.3x10^16
+MAPbI3,ND,1e9,cm^-3,Mehmood2023,listed together with NA = 1e9 (near intrinsic)
+MAPbI3,ND,1e9,cm^-3,Shukla2025,listed together with NA = 1e9 (near intrinsic)
+MAPbI3,ND,1e14,cm^-3,Sheikh2026,
+MAPbI3,Nt,1e14,cm^-3,Mehmood2023,
+MAPbI3,Nt,1e14,cm^-3,Subudhi2023,
+MAPbI3,Nt,1e14,cm^-3,Shukla2025,
+MAPbI3,Nt,3e14,cm^-3,Sheikh2026,
+MAPbI3,Nt,1e15,cm^-3,Rabhi2024,
+MAPbI3,Nt,4e13,cm^-3,Yusuf2024,
+MAPbI3,sigma,2e-14,cm^2,Subudhi2023,capture cross-section (electrons and holes)
+MAPbI3,vth,1e7,cm/s,Subudhi2023,
+MAPbI3,vth,1e7,cm/s,Son2024,
+TiO2,Eg,3.2,eV,Shukla2025,
+TiO2,Eg,3.2,eV,Das2024,
+TiO2,Eg,3.26,eV,Yusuf2024,
+TiO2,chi,4.1,eV,Shukla2025,
+TiO2,chi,4.1,eV,Das2024,
+TiO2,chi,4.2,eV,Yusuf2024,
+TiO2,chi,3.9,eV,Son2024,from LUMO -3.9 eV in the text
+TiO2,eps_r,9,-,Shukla2025,
+TiO2,eps_r,9.0,-,Das2024,
+TiO2,eps_r,10,-,Yusuf2024,
+TiO2,Nc,1e18,cm^-3,Shukla2025,
+TiO2,Nc,2.2e18,cm^-3,Das2024,
+TiO2,Nc,2.2e18,cm^-3,Yusuf2024,
+TiO2,Nv,1e19,cm^-3,Shukla2025,
+TiO2,Nv,1e19,cm^-3,Das2024,
+TiO2,Nv,1.8e18,cm^-3,Yusuf2024,
+TiO2,mu_n,20,cm^2/Vs,Shukla2025,
+TiO2,mu_n,20,cm^2/Vs,Das2024,
+TiO2,mu_n,20,cm^2/Vs,Yusuf2024,
+TiO2,mu_p,10,cm^2/Vs,Shukla2025,
+TiO2,mu_p,10,cm^2/Vs,Das2024,
+TiO2,mu_p,10,cm^2/Vs,Yusuf2024,
+TiO2,ND,1e18,cm^-3,Shukla2025,
+TiO2,ND,1e18,cm^-3,Das2024,
+TiO2,ND,1e17,cm^-3,Yusuf2024,
+TiO2,Nt,1e15,cm^-3,Shukla2025,
+TiO2,Nt,1e15,cm^-3,Das2024,
+TiO2,Nt,1e15,cm^-3,Yusuf2024,
+SnO2,Eg,3.6,eV,Mehmood2023,
+SnO2,Eg,3.6,eV,Das2024,
+SnO2,Eg,3.5,eV,Rabhi2024,
+SnO2,Eg,3.5,eV,Yusuf2024,
+SnO2,chi,3.93,eV,Mehmood2023,
+SnO2,chi,4.4,eV,Das2024,
+SnO2,chi,4,eV,Rabhi2024,
+SnO2,chi,4.0,eV,Yusuf2024,
+SnO2,eps_r,8.00,-,Mehmood2023,
+SnO2,eps_r,9,-,Das2024,
+SnO2,eps_r,9,-,Rabhi2024,
+SnO2,eps_r,9.0,-,Yusuf2024,
+SnO2,Nc,3.1e18,cm^-3,Mehmood2023,
+SnO2,Nc,2.2e18,cm^-3,Das2024,
+SnO2,Nc,2.2e18,cm^-3,Rabhi2024,
+SnO2,Nc,2.2e17,cm^-3,Yusuf2024,exponent garbled in extracted text; read as 2.2x10^17
+SnO2,Nv,2.5e19,cm^-3,Mehmood2023,
+SnO2,Nv,1.8e19,cm^-3,Das2024,
+SnO2,Nv,1.8e19,cm^-3,Rabhi2024,
+SnO2,Nv,2.2e17,cm^-3,Yusuf2024,exponent garbled in extracted text; read as 2.2x10^17
+SnO2,mu_n,15,cm^2/Vs,Mehmood2023,
+SnO2,mu_n,100,cm^2/Vs,Das2024,
+SnO2,mu_n,1.0,cm^2/Vs,Rabhi2024,
+SnO2,mu_n,20,cm^2/Vs,Yusuf2024,
+SnO2,mu_p,0.1,cm^2/Vs,Mehmood2023,
+SnO2,mu_p,0.256,cm^2/Vs,Das2024,
+SnO2,mu_p,2.0,cm^2/Vs,Rabhi2024,
+SnO2,mu_p,10,cm^2/Vs,Yusuf2024,
+SnO2,ND,1e19,cm^-3,Mehmood2023,
+SnO2,ND,1e17,cm^-3,Das2024,
+SnO2,ND,2e17,cm^-3,Rabhi2024,
+SnO2,ND,1e15,cm^-3,Yusuf2024,
+SnO2,Nt,1e14,cm^-3,Mehmood2023,
+SnO2,Nt,1e15,cm^-3,Das2024,
+SnO2,Nt,1e15,cm^-3,Rabhi2024,
+SnO2,Nt,1e18,cm^-3,Yusuf2024,
+ZnO,Eg,3.2,eV,Shukla2025,
+ZnO,Eg,3.3,eV,Sheikh2026,
+ZnO,Eg,3.47,eV,Das2024,ZnO nanorods
+ZnO,chi,4.5,eV,Shukla2025,
+ZnO,chi,4.1,eV,Sheikh2026,
+ZnO,chi,4.3,eV,Das2024,ZnO nanorods
+ZnO,eps_r,10,-,Shukla2025,
+ZnO,eps_r,9.0,-,Sheikh2026,
+ZnO,eps_r,9,-,Das2024,ZnO nanorods
+ZnO,Nc,1e19,cm^-3,Shukla2025,
+ZnO,Nc,4.0e18,cm^-3,Sheikh2026,
+ZnO,Nc,2e18,cm^-3,Das2024,ZnO nanorods
+ZnO,Nv,1e19,cm^-3,Shukla2025,
+ZnO,Nv,1.0e19,cm^-3,Sheikh2026,
+ZnO,Nv,1.8e20,cm^-3,Das2024,ZnO nanorods
+ZnO,mu_n,50,cm^2/Vs,Shukla2025,
+ZnO,mu_n,100,cm^2/Vs,Sheikh2026,
+ZnO,mu_n,100,cm^2/Vs,Das2024,ZnO nanorods
+ZnO,mu_p,50,cm^2/Vs,Shukla2025,
+ZnO,mu_p,25.0,cm^2/Vs,Sheikh2026,
+ZnO,mu_p,25,cm^2/Vs,Das2024,ZnO nanorods
+ZnO,ND,1e15,cm^-3,Shukla2025,
+ZnO,ND,1e16,cm^-3,Sheikh2026,
+ZnO,ND,1e19,cm^-3,Das2024,ZnO nanorods
+ZnO,Nt,1e15,cm^-3,Shukla2025,
+ZnO,Nt,1e14,cm^-3,Sheikh2026,
+ZnO,Nt,1e18,cm^-3,Das2024,ZnO nanorods
+CdS,Eg,2.4,eV,Das2024,single source so far
+CdS,chi,4.18,eV,Das2024,single source so far
+CdS,eps_r,10,-,Das2024,single source so far
+CdS,Nc,2.2e18,cm^-3,Das2024,single source so far
+CdS,Nv,1.9e19,cm^-3,Das2024,single source so far
+CdS,mu_n,100,cm^2/Vs,Das2024,single source so far
+CdS,mu_p,25,cm^2/Vs,Das2024,single source so far
+CdS,ND,1e18,cm^-3,Das2024,single source so far
+CdS,Nt,1e15,cm^-3,Das2024,single source so far
+ITO,W,4.13,eV,Mehmood2023,
+ITO,W,4.6,eV,Sheikh2026,
+ITO,W,4.6,eV,Son2024,
+carbon,W,5.05,eV,Omrani2022,baseline carbon electrode; tested up to 5.40 eV
+carbon,W,5.0,eV,Cai2017,review statement without a primary reference
+MAPbI3,mu_n,1.4,cm^2/Vs,Herz2017,measured: thin-film PL quenching (electrons)
+MAPbI3,mu_n,0.7,cm^2/Vs,Herz2017,measured: thin-film PL quenching (electrons)
+MAPbI3,mu_p,0.9,cm^2/Vs,Herz2017,measured: thin-film PL quenching (holes)
+MAPbI3,mu_p,0.4,cm^2/Vs,Herz2017,measured: thin-film PL quenching (holes)
+MAPbI3,mu_n,2,cm^2/Vs,Herz2017,"measured: thin-film optical microscopy, 2-3 reported for electrons/holes"
+MAPbI3,mu_n,3,cm^2/Vs,Herz2017,"measured: thin-film optical microscopy, 2-3 reported for electrons/holes"
+MAPbI3,mu_n,17.5,cm^2/Vs,Herz2017,measured: thin-film THz/microwave sum mu_e+mu_h = 35; split equally between carriers (assumption)
+MAPbI3,mu_n,10,cm^2/Vs,Herz2017,measured: thin-film THz/microwave sum mu_e+mu_h = 20; split equally between carriers (assumption)
+MAPbI3,mu_n,15,cm^2/Vs,Herz2017,measured: thin-film THz/microwave sum mu_e+mu_h = 30; split equally between carriers (assumption)
+MAPbI3,mu_n,14.5,cm^2/Vs,Herz2017,measured: thin-film THz/microwave sum mu_e+mu_h = 29; split equally between carriers (assumption)
+MAPbI3,mu_n,35.5,cm^2/Vs,Herz2017,measured: thin-film THz/microwave sum mu_e+mu_h = 71; split equally between carriers (assumption)
+MAPbI3,mu_p,2,cm^2/Vs,Herz2017,"measured: thin-film optical microscopy, 2-3 reported for electrons/holes"
+MAPbI3,mu_p,3,cm^2/Vs,Herz2017,"measured: thin-film optical microscopy, 2-3 reported for electrons/holes"
+MAPbI3,mu_p,17.5,cm^2/Vs,Herz2017,measured: thin-film THz/microwave sum mu_e+mu_h = 35; split equally between carriers (assumption)
+MAPbI3,mu_p,10,cm^2/Vs,Herz2017,measured: thin-film THz/microwave sum mu_e+mu_h = 20; split equally between carriers (assumption)
+MAPbI3,mu_p,15,cm^2/Vs,Herz2017,measured: thin-film THz/microwave sum mu_e+mu_h = 30; split equally between carriers (assumption)
+MAPbI3,mu_p,14.5,cm^2/Vs,Herz2017,measured: thin-film THz/microwave sum mu_e+mu_h = 29; split equally between carriers (assumption)
+MAPbI3,mu_p,35.5,cm^2/Vs,Herz2017,measured: thin-film THz/microwave sum mu_e+mu_h = 71; split equally between carriers (assumption)
+MAPbI3,chi,3.7,eV,Schulz2019,measured: electron affinity (photoemission/inverse photoemission); ionisation energy 5.4 eV
+FTO,W,5.0,eV,Helander2011,measured by XPS on commercial FTO: 5.0 +/- 0.1 eV
+FTO,W,4.4,eV,Helander2011,commonly cited value; attributed by the authors to carbon contamination and UV-induced lowering
+ETL/MAPbI3,S,0.01,cm/s,Krueckemeier2021,lower end of the interface recombination velocities scanned; no oxide-ETL-specific value found yet
+ETL/MAPbI3,S,1e5,cm/s,Krueckemeier2021,upper end of the scanned range
+ETL/MAPbI3,S,17,cm/s,Krueckemeier2021,"perovskite/PCBM, solution processed (70 meV offset)"
+ETL/MAPbI3,S,100,cm/s,Krueckemeier2021,"PTAA/perovskite, co-evaporated (100 meV offset)"
+CdS,Nt,1e16,cm^-3,Sites2009,range varied in CIGS device simulations (CdS buffer)
+CdS,Nt,1e17,cm^-3,Sites2009,range varied in CIGS device simulations (CdS buffer)
+CdS,Eg,2.42,eV,Islam2023,"cites Rahman et al., Sol. Energy 240 (2022)"
+CdS,chi,3.75,eV,Islam2023,"cites Rahman et al., Sol. Energy 240 (2022)"
+CdS,eps_r,10,-,Islam2023,"cites Rahman et al., Sol. Energy 240 (2022)"
+CdS,Nc,1.17e19,cm^-3,Islam2023,"cites Rahman et al., Sol. Energy 240 (2022)"
+CdS,Nv,4.12e18,cm^-3,Islam2023,"cites Rahman et al., Sol. Energy 240 (2022)"
+CdS,mu_n,160,cm^2/Vs,Islam2023,"cites Rahman et al., Sol. Energy 240 (2022)"
+CdS,mu_p,15,cm^2/Vs,Islam2023,"cites Rahman et al., Sol. Energy 240 (2022)"
+CdS,ND,1e18,cm^-3,Islam2023,"cites Rahman et al., Sol. Energy 240 (2022)"
+CdS,Nt,1e11,cm^-3,Islam2023,"cites Rahman et al., Sol. Energy 240 (2022)"
+TiO2,mu_n,1e-7,cm^2/Vs,Aduda2004,"measured: time-of-flight drift mobility, porous anatase films (10-50 % porosity), low field"
+TiO2,mu_n,1e-6,cm^2/Vs,Aduda2004,"measured: time-of-flight drift mobility, porous anatase films (10-50 % porosity), low field"
